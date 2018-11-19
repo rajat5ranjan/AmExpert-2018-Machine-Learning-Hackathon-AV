@@ -20,6 +20,10 @@ A Binary Classification Problem for user ad-clicks, in which data pertaining to 
 ## Leaderboard
 * **Public LB : 35th Rank**
 * **Private LB : 24th Rank**
+*private leaderboard yet to be finalised*
 
 ### Link to hackathon
 https://datahack.analyticsvidhya.com/contest/american-express-amexpert-2018/
+
+#### Public Profile
+https://datahack.analyticsvidhya.com/user/profile/rajat5ranjan
