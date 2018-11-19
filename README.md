@@ -23,5 +23,3 @@ A Binary Classification Problem for user ad-clicks, in which data pertaining to 
 
 ### Link to hackathon
 https://datahack.analyticsvidhya.com/contest/american-express-amexpert-2018/
-
-*Code coming up*
