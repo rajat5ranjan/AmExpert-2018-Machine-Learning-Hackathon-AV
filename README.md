@@ -1,3 +1,5 @@
+![title](amex.jpg)
+
 # AmExpert-2018-Machine-Learning-Hackathon (Analytics Vidhya)
 
 ## Introduction: 
